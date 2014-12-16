@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "PlatformBootcamp": {
+            "applicationId": "flfXRM8Wm0NufagLs3hStQcCXmoPdo81b1YHrBH1", 
+            "masterKey": "mU5xI5z9pVGnTYe1gHm0hJbjUkDm8Hq0lsCk2pWS"
+        }, 
+        "_default": {
+            "link": "PlatformBootcamp"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.2"
+    }
+}
